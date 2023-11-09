@@ -1,7 +1,8 @@
-/* src/components/SideComponent.css */
 aside {
-    background-color: #080808;
-    padding: 1rem;
-    margin: 0 1rem;
-  }
-  
+  background-color: orchid;
+  padding: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  border: 2px solid #ddd; /* Add a border for separation */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}

@@ -13,6 +13,7 @@ function App() {
       <div className="main-content">
         <SideComponent />
         <CentralContent />
+        <SideComponent />
       </div>
       <Footer />
     </div>

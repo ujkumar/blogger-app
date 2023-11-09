@@ -15,6 +15,15 @@ const NavBar = () => {
               <a class="navbar-brand" href="#">
                 Navbar
               </a>
+              <a class="navbar-brand" href="#">
+                Wings1
+              </a>
+              <a class="navbar-brand" href="#">
+                Java
+              </a>
+              <a class="navbar-brand" href="#">
+                Python
+              </a>
             </div>
           </nav>
         </div>

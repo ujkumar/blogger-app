@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+main {
+  flex: 1; /* This makes the CentralContent take up all available space */
+  border: 1px solid #ddd;
+  border-radius: 8px;
 }
